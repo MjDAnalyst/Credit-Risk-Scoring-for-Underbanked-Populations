@@ -55,6 +55,11 @@ The dataset includes borrower demographic, financial, and behavioral attributes.
 * Risk factor correlations
 * Identification of key drivers of default
 
+<img width="567" height="576" alt="download" src="https://github.com/user-attachments/assets/783447f7-cad0-4f8a-941e-22ab6113eb20" />
+<img width="567" height="539" alt="download" src="https://github.com/user-attachments/assets/053ab0b5-9385-4bbb-b7b1-4caee6608f41" />
+<img width="567" height="503" alt="download" src="https://github.com/user-attachments/assets/ddc6fce6-649a-44f2-89b8-4b78ebea844e" />
+
+
 ### 3. Model Building
 
 * Algorithm: **Random Forest Classifier**
