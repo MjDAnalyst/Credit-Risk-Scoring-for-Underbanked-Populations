@@ -101,7 +101,6 @@ To improve minority class learning, **SMOTE (Synthetic Minority Oversampling Tec
 ### Class Distribution
 
 *(<img width="580" height="453" alt="download" src="https://github.com/user-attachments/assets/007d788e-c451-44c1-9c92-ce1987cb0724" />
-)*
 
 
 # Example placeholder:
@@ -111,6 +110,9 @@ To improve minority class learning, **SMOTE (Synthetic Minority Oversampling Tec
 ### Feature Importance (Random Forest)
 
 # ![Feature Importance](images/feature_importance.png)
+<img width="563" height="453" alt="download" src="https://github.com/user-attachments/assets/5109afb9-56fd-494c-90cf-1c950b76c237" />
+<img width="589" height="453" alt="download" src="https://github.com/user-attachments/assets/56fae9da-40c1-409c-9bb9-7b8ebfb65de9" />
+
 
 
 ## ⚠️ Challenges
